@@ -70,20 +70,26 @@ Retailers need to know who their customers are and which segments and products a
 
 ## Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](images/dashboard.jpg)
+![Customer Shopping Behavior Dashboard](Customer Shopping Behavior.pdf)
 
 ---
 
 ## Repository Structure
 
 ```
-├── customer_behavior.csv                # Raw dataset
-├── Customer_Behavior.ipynb              # Data cleaning and feature engineering (Python)
-├── C_B.sql                              # SQL analysis (8 business questions)
-├── Customer_Shopping_Behavior.pbix      # Power BI dashboard
-├── images/
-│   └── dashboard.jpg                    # Dashboard screenshot
-└── README.md
+Customer-Shopping-Behavior-Analysis/
+│
+├── README.md                                  # Project overview, insights and recommendations
+├── customer_behavior.csv                      # Dataset (3,900 rows, 18 columns)
+├── Customer_Behavior.ipynb                    # Python (pandas) data cleaning and preparation
+├── C_B.sql                                    # SQL Server queries for the business analysis
+├── Customer Shopping Behavior.pbix            # Power BI dashboard file
+├── CustomerShoppingBehaviorAnalysis.jpg       # Dashboard screenshot
+├── Customer_Shopping_Behavior_Analysis.mp4    # Dashboard walkthrough video
+├── Customer_Shopping_Behavior_Report.docx     # Written project report
+├── Customer Shopping Behavior.pdf             # PDF version of the project
+├── Customer Shopping Behavior.pptx            # Presentation slides
+└── .gitignore
 ```
 
 ---
@@ -100,6 +106,7 @@ Retailers need to know who their customers are and which segments and products a
 ## Author
 
 **Ayush Yadav**
+
 Aspiring Data Analyst | SQL, Python, Tableau, Power BI
 [www.linkedin.com/in/ayush-yadav-914246198]
 # Customer-Shopping-Behavior-Analysis
