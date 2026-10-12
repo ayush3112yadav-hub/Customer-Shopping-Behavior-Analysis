@@ -87,9 +87,7 @@ Customer-Shopping-Behavior-Analysis/
 ├── CustomerShoppingBehaviorAnalysis.jpg       # Dashboard screenshot
 ├── Customer_Shopping_Behavior_Analysis.mp4    # Dashboard walkthrough video
 ├── Customer_Shopping_Behavior_Report.docx     # Written project report
-├── Customer Shopping Behavior.pdf             # PDF version of the project
 ├── Customer Shopping Behavior.pptx            # Presentation slides
-└── .gitignore
 ```
 
 ---
