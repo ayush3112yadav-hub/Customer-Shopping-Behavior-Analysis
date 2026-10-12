@@ -70,7 +70,8 @@ Retailers need to know who their customers are and which segments and products a
 
 ## Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](Customer Shopping Behavior.pdf)
+![Customer Shopping Behavior Dashboard](<img width="961" height="466" alt="image" src="https://github.com/user-attachments/assets/41f5c920-47fb-4b97-87ee-6f0bde20018e" />
+)
 
 ---
 
